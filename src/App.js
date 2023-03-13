@@ -73,5 +73,6 @@ function Details(props) {
       </div>
       <button><h4>BUTTON</h4></button>
     </div>
+    
   );
 }
